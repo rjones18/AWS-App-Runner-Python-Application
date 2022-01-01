@@ -1,4 +1,4 @@
-#!flask/bin/python
+##!flask/bin/python
 import json
 from flask import Flask, Response
 
@@ -6,7 +6,7 @@ application = Flask(__name__)
 
 @application.route('/', methods=['GET'])
 def get():
-    return Response(json.dumps({'Output': 'Hello World', 'Additional Output': 'My name is Reggie and I built this website using CodeStar! The website was also editied using Cloud 9'}), mimetype='application/json', status=200)
+    return Response(json.dumps({'Output': 'Hello World', 'Additional Output': 'My name is Reggie and I used CodeStar to deploy this application on to Elasticbeanstalk! The website was also editied using Cloud 9'}), mimetype='application/json', status=200)
 
 @application.route('/', methods=['POST'])
 def post():
