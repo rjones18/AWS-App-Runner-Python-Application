@@ -1,7 +1,7 @@
 # AWS-Elasticbeanstalk-Application
-In this project, I created a flask app using Python and deploy the application on to Elastic Beanstalk.
+In this project, I created a flask app using Python and deploy the application on to Elastic Beanstalk. Ialso gave the site a custom domain name using Route 53.
 
-Link to Website: http://aws-eb-flask-source-code-final-dev.us-east-2.elasticbeanstalk.com/
+Link to Website: ebapp.reggiestestdomain.com
 
 
 ## Website Breakdown
