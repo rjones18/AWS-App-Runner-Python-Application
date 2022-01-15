@@ -1,7 +1,7 @@
-# Code-Star-Application
-In this project, I created a flask app using Python. I used CodeStar to deploy the application on to Elastic Beanstalk. I also made changes to my application using the Cloud9 IDE.
+# AWS-Elasticbeanstalk-Application
+In this project, I created a flask app using Python and deploy the application on to Elastic Beanstalk.
 
-Link to Website: http://demo-projectapp.eba-tgwuksdw.us-east-2.elasticbeanstalk.com/
+Link to Website: http://aws-eb-flask-source-code-final-dev.us-east-2.elasticbeanstalk.com/
 
 
 ## Website Breakdown
@@ -17,11 +17,10 @@ The construction of the website broken down into the parts below:
 
 ### Deployment Platform
 
-- [AWS CodeStar](https://aws.amazon.com/codestar/)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 
 
-### IDE
+### Database 
 
-- [AWS Cloud9](https://aws.amazon.com/cloud9/)
+- [DynamoDB](https://aws.amazon.com/dynamodb/)
 
