@@ -33,6 +33,10 @@ The application is broken down into the architecture below:
 - [Route 53](https://aws.amazon.com/route53/)
 
 
+### SSL Certificate
+
+- [Certificate Manager](https://aws.amazon.com/certificate-manager/)
+
 ### Deployment Platform
 
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
