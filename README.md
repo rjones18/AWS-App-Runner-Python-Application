@@ -1,5 +1,6 @@
 # AWS-Elasticbeanstalk-Application
-In this project, I created a flask app using Python, HTML, and CSS and deployed the application on to Elastic Beanstalk. I also gave the site a custom domain name using Route 53.
+
+In this project, I created a flask application using Python, HTML, and CSS. The application takes the information that a user puts into the field and pushes it to my DynamoDB table in AWS. Once the information is stored, I am sent a SNS notification via email that new user signed up. The application was deployed on to Elastic Beanstalk and the custom domain was created using Route 53.
 
 Link to Website: http://rjcloud.reggiestestdomain.com/
 
