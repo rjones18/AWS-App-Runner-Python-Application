@@ -10,7 +10,7 @@ Link to Website: https://rjcloud.reggiestestdomain.com/
 
 The application is broken down into the architecture below:
 
-![ebsapp](https://github.com/rjones18/Images/blob/main/Elbsite3.png)
+![ebsapp](https://github.com/rjones18/Images/blob/main/Elbsite4.png)
 
 
 
