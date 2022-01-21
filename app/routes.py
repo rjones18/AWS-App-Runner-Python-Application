@@ -1,5 +1,5 @@
 from flask import render_template, redirect, url_for, flash
-from app import application
+from app import application # importing the application module
 from app.forms import SignUpForm
 import boto3
 
