@@ -1,5 +1,5 @@
 import boto3
-
+# This file was used to perfrom CRUD operations on our database for tetsing purposes. CRUD Meaning: CRUD is an acronym that comes from the world of computer programming and refers to the four functions that are considered necessary to implement a persistent storage application: create, read, update and delete.
 db = boto3.resource('dynamodb', region_name='us-east-2')
 table = db.Table('signuptable')
 
