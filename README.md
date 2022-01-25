@@ -26,6 +26,17 @@ The application is broken down into the architecture below:
 - [Python](https://www.python.org/) 
 - [Flask (Python Framework)](https://flask.palletsprojects.com/en/1.1.x/)
 
+### Database 
+
+- [DynamoDB](https://aws.amazon.com/dynamodb/)
+
+
+### Deployment Platform
+
+- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+
+
+
 
 
 ### DNS
@@ -37,16 +48,19 @@ The application is broken down into the architecture below:
 
 - [Certificate Manager](https://aws.amazon.com/certificate-manager/)
 
-### Deployment Platform
-
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 
 
-### Database 
-
-- [DynamoDB](https://aws.amazon.com/dynamodb/)
 
 ### Notification Service
 
 - [SNS](https://aws.amazon.com/sns/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+
+
+### IDE
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+### CLI
+
+- [EB CLI](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html)
 
