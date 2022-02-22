@@ -1,6 +1,6 @@
 # AWS-Elasticbeanstalk-Application
 
-In this project, I created a flask application using Python, HTML, and CSS. The application takes the information that a user puts into the field and pushes it to my DynamoDB table in AWS. Once the information is stored, I am sent a SNS notification via email that new user signed up. The application was deployed on to Elastic Beanstalk and the custom domain was created using Route 53.
+In this project, I created a flask application using Python, HTML, and CSS. The application takes the information that a user puts into the field and pushes it to my DynamoDB table in AWS. Once the information is stored, I am sent a SNS notification via email that new user signed up. The application was deployed on to Elastic Beanstalk and the custom domain was created using Route 53. Also when information is added/modified in the DynamoDB table it will trigger a Lambda Function that captures the action and puts it into CloudWatch Logs for monitoring. 
 
 Link to Website: https://rjcloud.reggiestestdomain.com/ (VM Currently Turned Off)
 
@@ -10,7 +10,7 @@ Link to Website: https://rjcloud.reggiestestdomain.com/ (VM Currently Turned Off
 
 The application is broken down into the architecture below:
 
-![ebsapp](https://github.com/rjones18/Images/blob/main/Elastic%20Beanstalk%20Site4.drawio.png)
+![ebsapp](https://github.com/rjones18/Images/blob/main/Elastic%20Beanstalk%20Sitev2.drawio.png)
 
 
 
