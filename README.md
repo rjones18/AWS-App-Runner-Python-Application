@@ -56,6 +56,11 @@ The application is broken down into the architecture below:
 - [SNS](https://aws.amazon.com/sns/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
 
 
+### Serverless Function
+
+- [Lambda](https://aws.amazon.com/lambda/)
+
+
 ### IDE
 
 - [Visual Studio Code](https://code.visualstudio.com/)
