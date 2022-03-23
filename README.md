@@ -61,6 +61,26 @@ The application is broken down into the architecture below:
 - [Lambda](https://aws.amazon.com/lambda/)
 
 
+### Management Tools
+
+- [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
+
+
+### Key Management Service
+
+- [KMS](https://aws.amazon.com/kms/)
+
+
+### Storage
+
+- [S3 Bucket](https://aws.amazon.com/s3/)
+
+
+### Query Service
+
+-[Athena](https://aws.amazon.com/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+
+
 ### IDE
 
 - [Visual Studio Code](https://code.visualstudio.com/)
