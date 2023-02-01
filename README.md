@@ -85,4 +85,4 @@ The application is broken down into the architecture below:
 
  ### CLI
 
- - [EB CLI](https://docs.aws.amazon.com/
+ - [EB CLI](https://docs.aws.amazon.com/)
