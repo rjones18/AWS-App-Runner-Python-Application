@@ -10,7 +10,7 @@ Link to Website: https://rjcloud.reggiestestdomain.com/ (VM Currently Turned Off
 
 The application is broken down into the architecture below:
 
-![elasticbeanstalkapp](https://github.com/rjones18/Images/blob/main/Elastic%20Beanstalk%20Site.10drawio.png)
+![elasticbeanstalkapp](https://github.com/rjones18/Images/blob/main/Elastic%20Beanstalk%20Site2.drawio.png)
 
 ### Frontend
 
