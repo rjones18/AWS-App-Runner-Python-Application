@@ -2,7 +2,7 @@ awscli==1.22.37
 boto3==1.20.34
 botocore==1.23.37
 cement==3.0.6
-certifi==2021.10.8
+certifi==2023.07.22
 charset-normalizer==2.0.10
 click==8.0.3
 colorama==0.4.3
